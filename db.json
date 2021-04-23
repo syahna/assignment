@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "user": "syarifah",
+      "id": 1,
+      "pwd": "!sy19",
+      "email": "syarfh@gmail.com"
+    },
+    {
+      "user": "najwa",
+      "id": 2,
+      "pwd": "123",
+      "email": "najwa@gmail.com"
+    },
+    {
+      "name": "paul",
+      "id": "3",
+      "pwd": "123",
+      "email": "paul@gmail.com"
+    },
+    {
+      "name": "adira",
+      "id": "4",
+      "pwd": "alia2",
+      "email": "alia@gmail.com"
+    }
+  ]
+}
